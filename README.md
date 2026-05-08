@@ -6,7 +6,7 @@ Please see "SETUP_DB.md" for instructions on setting up the database.
 - Any future changes will be documented and uploaded to the same folder.
 
 # Dev Env Setup
-1. Clone repo at https://github.com/achyrra/MentAssist.git
+1. Clone repo at https://github.com/Eli-loft/MentAssist.git
 2. In terminal use the following commands:
     - `cp mentassistdb\.env.example mentassistdb\.env`
         - Do not commit this file
