@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Distribution
+.dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# DB Hash -- prevents the generated hash from being committed, which can cause merge conflicts
+# mentassistdb/scripts/seed_dev.sqltest-export.pdf
+test-resource.txt
+downloaded-resource.txt
